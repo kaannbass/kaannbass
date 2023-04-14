@@ -10,7 +10,7 @@ width="500"     src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f
   
 * 🌍  I'm based in **Turkey**
 
-* 🧠  I'm learning **Vue.js,Typescript,Node.js**
+* 🧠  I'm learning **Vue.js,React.js,Typescript,Node.js**
 
 * 💬 Ask me about **Vue.js**
 
