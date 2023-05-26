@@ -1,6 +1,6 @@
 <h1 align="center">Hi there  👋 I'm Kaan </h1>
 
-  <h2 align="center">Frontend Developer</h2>
+  <h2 align="center">Software Engineer</h2>
 
 <img 
 align="right"
