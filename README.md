@@ -10,9 +10,9 @@ width="500"     src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f
   
 * 🌍  I'm based in **Turkey**
 
-* 🧠  I'm learning **React.js,Next.js,Typescript,Node.js**
+* 🧠  I'm learning **React.js,Next.js,Typescript,Node.js,React Native**
 
-* 💬 Ask me about **Vue.js**
+* 💬 Ask me about **Vue.js,React,React Native,Typescript**
 
 * 🤝  I'm open to collaborating on interesting projects
 
