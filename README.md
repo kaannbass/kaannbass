@@ -12,7 +12,7 @@ align="right"
 
 * 🧠  I'm learning **React.js,Next.js,Typescript,Node.js,React Native**
 
-* 💬 Ask me about **Vue.js,React,React Native,Typescript**
+* 💬 Ask me about **React,Next.js,React Native,Typescript**
 
 * 🤝  I'm open to collaborating on interesting projects
 
